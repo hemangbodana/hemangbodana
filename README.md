@@ -7,13 +7,15 @@
 🌟 Love building projects with ReactJS, HTML, CSS, TailwindCSS
 
 🛠️ Tech Stack
-Languages: Java, Python, JavaScript, C/C++
+Languages: Java, Python, JavaScript, C/C++ and ruby.
 Frameworks & Libraries: ReactJS, NumPy, Pandas, scikit-learn
 Tools & Platforms: Git, GitHub, Firebase, Vite, VS Code
-Database: Firestore
-
+Database: SQL, SQLite, MongoDB
 📌 Featured Projects
+🔹 Deepsecure : A deepfake detection platform
+🔹 Personal Expense Manager
 🔹 FitAura Skillbosst
+🔹 Favourite Design Studio
 🔹 Spotify and netflix clone
 🔹 Python Face detection
 🔹 Python end-to-end project on titanic dataset available in google collab
